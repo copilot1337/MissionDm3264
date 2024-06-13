@@ -30,3 +30,6 @@
 *.exe
 *.out
 *.app
+/.vs/MissionDm3264
+/MissionDm3264/x64/Debug
+/x64/Debug
